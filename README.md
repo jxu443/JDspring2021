@@ -6,8 +6,8 @@ Project Description:
 Repository:  
 -----------------------  
 Team Member List:  
-Wang Lai
 Jiawei Li  
 Ricky Lin  
+Lai Wang
 Jiaxi Xu 
 Lidan Zheng  
